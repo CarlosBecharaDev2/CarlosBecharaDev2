@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Estudiante+de+Desarrollo+de+Software;Backend+con+Java+y+Spring+Boot;APIs+REST+%C2%B7+Bases+de+datos+%C2%B7+Docker" alt="Typing SVG" />
 
+<a href="https://discord.com/users/740298769857380435">
+  <img src="https://discord.c99.nl/widget/theme-3/740298769857380435.png" alt="Discord" />
+</a>
+
 </div>
 
 ### 📋 Sobre mí
