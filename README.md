@@ -46,32 +46,6 @@
 
 ### 📂 Proyectos destacados
 
-<div align="center">
-
-<img src="assets/udrop.png" alt="Udrop" width="110" />
-
-## Udrop
-
-**Reproductor y biblioteca offline para tus cursos, con interfaz estilo streaming.**
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Plataforma](https://img.shields.io/badge/plataforma-Windows%20%7C%20macOS-0078d4)
-![Licencia](https://img.shields.io/badge/licencia-MIT-22c55e)
-
-</div>
-
-| | |
-| --- | --- |
-| ▶️ **Ver** | Reproductor integrado con progreso guardado, atajos, notas con marca de tiempo y subtítulos |
-| ⬇️ **Descargar** | Cola con pausa y reanudación, límite de ancho de banda y horario de descarga |
-| 🗂️ **Organizar** | Biblioteca local sin duplicados, verificación de integridad y soporte para discos externos |
-| 🔒 **Proteger** | Modo Vault con cifrado AES-256-GCM y clave en el llavero del sistema |
-| 🌍 **Y más** | Varias cuentas, interfaz en español, inglés y griego, tema claro y oscuro, actualizaciones automáticas |
 
 **Otros proyectos**
 
